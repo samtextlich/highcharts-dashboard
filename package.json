@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "d3": "5.15.0",
+    "d3blackbox": "1.2.0",
+    "highcharts": "8.0.0",
+    "highcharts-react-official": "2.2.2",
+    "lodash": "4.17.15",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "3.3.0"
+  },
+  "keywords": [],
+  "name": "feature-importance-dashboard",
+  "description": null,
+  "version": "0.0.80",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

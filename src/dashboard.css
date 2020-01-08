@@ -1,0 +1,13 @@
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.toolbar-title {
+  font-size: 20px;
+  color: #fff;
+  margin-left: 10px;
+  text-rendering: optimizeLegibility;
+  letter-spacing: -0.025em;
+  font-weight: 500;
+  display: block;
+}
